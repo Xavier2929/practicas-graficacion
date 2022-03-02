@@ -1,0 +1,12 @@
+Grafica la siguentes funciones 
+en python usando OpenGL
+
+a)y=x^2-2
+b)y=x^3-3x-1
+c)y=x^4-5x^3+x^2-3x-1
+d)y=sen(3x)
+e)y=sen(x/3)
+f)y=cos(x)
+
+Ejercicios sacados del libro 
+Python programming in OpenGL (A graphical approach to programming) por Stan Blank
